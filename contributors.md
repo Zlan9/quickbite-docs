@@ -13,7 +13,7 @@
 ---
 
 ## 👤 Account B – Collaborator
-- **Username:** [Your Second GitHub Username]  
+- **Username:** [Achixt628]  
 - **Role:** Contributor  
 - **Environment:** Secondary Setup (Separate Terminal Environment)  
 - **Responsibilities:**
