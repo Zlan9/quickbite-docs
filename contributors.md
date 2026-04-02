@@ -32,5 +32,6 @@ Both contributors worked together using:
 - Conflict resolution strategies
 
 This setup simulates a real-world team-based Git workflow.
+The list will be continued.
 
 ---
