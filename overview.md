@@ -42,4 +42,6 @@ Users can manage addresses, payment methods, and order history.
 - Improved customer satisfaction
 - Efficient delivery system
 
+## Tech Stack Used:
+
 ---
